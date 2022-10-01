@@ -1,7 +1,0 @@
-theme: Strawberry Theme
-theme: nightfall
-
-links: https://cheat.sh/
-links: https://geekrepos.com
-links: https://julia-pt-br.readthedocs.io/pt_BR/latest/manual/introduction.html
-links: https://themes.gohugo.io/themes/hugo-theme-hello-friend-ng/
